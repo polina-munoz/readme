@@ -6,8 +6,8 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 
 ## Experience
 
-- March 2016 - Present Software Engineer at Indiegogo
-- 
+- Full Stack Software Engineer (Ruby on Rails, JavaScript, AngularJS): 2+ years
+- Partner/Integration Engineer (Python, Django): 1 year
 
 ## Projects
 
