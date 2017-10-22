@@ -6,9 +6,10 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 
 ## Blog Posts:
 
-Web development:
+Software:
 - [In which I decide to delegate Rails to the API layer](https://medium.com/@polinadotio/in-which-i-decide-to-delegate-rails-to-the-api-layer-28f07f055d2f)
 - [What does a Software Developer do?](https://medium.com/@polinadotio/what-does-a-software-developer-do-107e4c7043b9)
+- [A short guide to email spoofing](https://medium.com/@polinadotio/a-short-guide-to-email-spoofing-43db6c80ed6e)
 
 Interviewing:
  - [Your Technical Interviewing Roadmap](https://medium.com/@polinadotio/your-technical-interviewing-roadmap-14ead29c468d)
