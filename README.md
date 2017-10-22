@@ -4,7 +4,7 @@ Hi there! My name is Polina, and I’m currently a Software Engineer at [Indiego
 
 I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-place) with a degree in Computer Science and currently reside in San Francisco. When I’m not coding, you can find me listening to podcasts, running, and learning about the world and people through stories.
 
-## Blog Posts:
+## Blog Posts
 
 Software:
 - [In which I decide to delegate Rails to the API layer](https://medium.com/@polinadotio/in-which-i-decide-to-delegate-rails-to-the-api-layer-28f07f055d2f)
@@ -19,12 +19,12 @@ Product Development:
 
 
 
-## Projects:
+## Projects
 
 - [MatchJS](https://github.com/httparty/matchjs) (Winter 2016): Full stack web application built as part of a team during a [Hack Reactor](https://www.hackreactor.com/) cohort
 
 
-## Links:
+## Links
 
 - Medium: https://medium.com/@polinadotio
 - LinkedIn: https://www.linkedin.com/in/polinasoshnin/
