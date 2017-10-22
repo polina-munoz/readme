@@ -7,7 +7,7 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 ## Blog Posts:
 
 Web development:
-- [In Which I decide to Delegate Rails to the API layer](https://medium.com/@polinadotio/in-which-i-decide-to-delegate-rails-to-the-api-layer-28f07f055d2f)
+- [In which I decide to delegate Rails to the API layer](https://medium.com/@polinadotio/in-which-i-decide-to-delegate-rails-to-the-api-layer-28f07f055d2f)
 - [What does a Software Developer do?](https://medium.com/@polinadotio/what-does-a-software-developer-do-107e4c7043b9)
 
 Interviewing:
