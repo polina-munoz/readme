@@ -8,6 +8,9 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 
 - Full Stack Software Engineer (Ruby on Rails, JavaScript/TypeScript, AngularJS, MySQL, Elixir): 2+ years
 - Partner/Integration Engineer (Python, Django): 1 year
+
+## :sparkling_heart: Community 
+
 - Technical mentor at [Hackbright](https://hackbrightacademy.com/), Hack Reactor's [Telegraph Track](https://www.hackreactor.com/telegraph-track/), [Write/Speak/Code](https://www.meetup.com/WriteSpeakCode-SFBay/) Open Source Hours
 
 ## :octocat: Projects
