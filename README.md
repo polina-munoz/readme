@@ -6,7 +6,7 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 
 ## Experience
 
-- Full Stack Software Engineer (Ruby on Rails, JavaScript, TypeScript, AngularJS, MySQL, Elixir): 2+ years
+- Full Stack Software Engineer (Ruby on Rails, JavaScript/TypeScript, AngularJS, MySQL, Elixir): 2+ years
 - Partner/Integration Engineer (Python, Django): 1 year
 
 ## Projects
