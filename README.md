@@ -6,8 +6,14 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 
 ## Blog Posts:
 
+Web development:
+- [In Which I decide to Delegate Rails to the API layer](https://medium.com/@polinadotio/in-which-i-decide-to-delegate-rails-to-the-api-layer-28f07f055d2f)
+
+Interviewing:
+ - [Your Technical Interviewing Roadmap](https://medium.com/@polinadotio/your-technical-interviewing-roadmap-14ead29c468d)
+ 
 Product Development:
- - Guide to Sprint Planning and Estimation: https://medium.com/@polinadotio/sprint-planning-1e8f19a0b86a
+ - [Guide to Sprint Planning and Estimation](https://medium.com/@polinadotio/sprint-planning-1e8f19a0b86a)
 
 
 
