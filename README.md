@@ -16,13 +16,13 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 ## :octocat: Projects
 
 - [MatchJS](https://github.com/httparty/matchjs): Full stack web application built as part of a team during a [Hack Reactor](https://www.hackreactor.com/) cohort
-- Static blog generator in Python & Flask: https://github.com/polinadotio/static-blog-generator
-- Facebook Messenger Chat Bot: https://github.com/polinadotio/fluffy
-- Analyze Twitter trends over time: https://github.com/mks-greenfield/trendr
-- Cron job for fetching various API data: https://github.com/mks-greenfield/cron-job
-- Get Git statistics: https://github.com/polinadotio/git-stats
-- D3 Playground: https://github.com/polinadotio/d3-playground
-- Binary Tree using D3: https://github.com/polinadotio/d3-binary-tree
+- [Static blog generator in Python & Flask](https://github.com/polinadotio/static-blog-generator)
+- [Facebook Messenger Chat Bot](https://github.com/polinadotio/fluffy)
+- [Analyze Twitter trends over time](https://github.com/mks-greenfield/trendr)
+- [Cron job for fetching various API data](https://github.com/mks-greenfield/cron-job)
+- [Show Git statistics](https://github.com/polinadotio/git-stats)
+- [D3 Playground](https://github.com/polinadotio/d3-playground)
+- [Binary Tree using D3](https://github.com/polinadotio/d3-binary-tree)
 
 ## :blue_book: Blog Posts
 
