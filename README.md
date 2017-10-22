@@ -9,11 +9,11 @@ I graduated from [Wellesley College](http://campaign.wellesley.edu/this-is-the-p
 - Full Stack Software Engineer (Ruby on Rails, JavaScript/TypeScript, AngularJS, MySQL, Elixir): 2+ years
 - Partner/Integration Engineer (Python, Django): 1 year
 
-## Projects
+## :octocat: Projects
 
 - [MatchJS](https://github.com/httparty/matchjs) (Winter 2016): Full stack web application built as part of a team during a [Hack Reactor](https://www.hackreactor.com/) cohort
 
-## Blog Posts
+## :blue_book: Blog Posts
 
 Software:
 - [In which I decide to delegate Rails to the API layer](https://medium.com/@polinadotio/in-which-i-decide-to-delegate-rails-to-the-api-layer-28f07f055d2f)
@@ -29,7 +29,7 @@ Interviewing:
 Product Development:
  - [Guide to Sprint Planning and Estimation](https://medium.com/@polinadotio/sprint-planning-1e8f19a0b86a)
 
-## Links
+## :link: Links
 
 - Medium: https://medium.com/@polinadotio
 - LinkedIn: https://www.linkedin.com/in/polinasoshnin/
