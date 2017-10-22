@@ -20,6 +20,7 @@ Software:
 - [What does a Software Developer do?](https://medium.com/@polinadotio/what-does-a-software-developer-do-107e4c7043b9)
 - [A short guide to email spoofing](https://medium.com/@polinadotio/a-short-guide-to-email-spoofing-43db6c80ed6e)
 - [I am a code janitor but not a firefighter](https://medium.com/@polinadotio/i-am-a-code-janitor-but-not-a-firefighter-282b95e203c)
+- [Qualities of a good software engineer](https://medium.com/@polinadotio/qualities-of-a-good-software-engineer-25e8e0cc7619)
 
 Interviewing:
  - [Your Technical Interviewing Roadmap](https://medium.com/@polinadotio/your-technical-interviewing-roadmap-14ead29c468d)
