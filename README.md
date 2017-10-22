@@ -10,10 +10,12 @@ Blog Posts:
 
 Projects:
 
+- [MatchJS](https://github.com/httparty/matchjs) (Winter 2016): Full stack web application built as part of a team during a [Hack Reactor](https://www.hackreactor.com/) cohort
 
 
 - Medium: https://medium.com/@polinadotio
 - LinkedIn: https://www.linkedin.com/in/polinasoshnin/
+- Instagram: https://www.instagram.com/polinadotio/
 - Email: psoshnin@gmail.com
 
 
