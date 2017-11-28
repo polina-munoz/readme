@@ -33,6 +33,7 @@ Software:
 - [I am a code janitor but not a firefighter](https://medium.com/@polinadotio/i-am-a-code-janitor-but-not-a-firefighter-282b95e203c)
 - [Qualities of a good software engineer](https://medium.com/@polinadotio/qualities-of-a-good-software-engineer-25e8e0cc7619)
 - [Hackbright career questions answered](https://docs.google.com/document/d/14dtvfgH-eKr1GXqTFbvg-lDtDDLEJLLuz-mh21aGQEY/edit?usp=sharing)
+- [What to consider when using a third party library](https://gist.github.com/polinadotio/a98560699a2a0fff962f2c9d21a61f66)
 
 Interviewing:
  - [Your Technical Interviewing Roadmap](https://medium.com/@polinadotio/your-technical-interviewing-roadmap-14ead29c468d)
