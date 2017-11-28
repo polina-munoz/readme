@@ -41,7 +41,7 @@ Interviewing:
 Product Development:
  - [Guide to Sprint Planning and Estimation](https://medium.com/@polinadotio/sprint-planning-1e8f19a0b86a)
 
-## :link: Links
+## :email: Links
 
 - Medium: https://medium.com/@polinadotio
 - LinkedIn: https://www.linkedin.com/in/polinasoshnin/
